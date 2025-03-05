@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Amjad Alqahtani!
+#### MSSQL Server Engineer | Distributed Systems Researcher | Master’s Student at UTSA
 
-<!--
-**AmjadAlqahtani90/AmjadAlqahtani90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **distributed systems**, **federated learning**, **NoSQL databases**, and **serverless computing**. Currently, I am pursuing my **Master’s degree at UTSA**, working on **Decentralized Federated Learning for Enhancing Scalability and Resilience**.
 
-Here are some ideas to get you started:
+💼 **Work:** MSSQL Server Engineer  
+📚 **Education:** Master’s Student at UTSA  
+🔬 **Research Interests:** Distributed Systems, NoSQL, Federated Learning  
+✍ **Current Projects:** Serverless Computing, Federated Learning, Blockchain  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Personal Website](your-website-url)
+
+### 🚀 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmjadAlqahtani90&show_icons=true&theme=radical)
+
+---
+
+📬 **Feel free to reach out if you're interested in research collaboration or tech discussions!**
