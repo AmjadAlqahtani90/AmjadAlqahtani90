@@ -23,12 +23,12 @@ My academic journey is driven by a passion for understanding and securing distri
 ## 📄 Academic Transcripts  
 
 ### 📘 Bachelor’s Degree – Niagara University  
-[Transcript PDF](#) |
+[Transcript PDF](https://drive.google.com/file/d/1YA4sciorPg3E9QTjAJZbJxFFDGmQrmgb/view?usp=sharing) |
 
 ### 🎓 Master’s Degree – UTSA  
 [Transcript PDF](#) | [Detailed Coursework](#)
 
 | Degree       | Institution             | GPA     | Duration         | Status      |
 |--------------|--------------------------|---------|------------------|-------------|
-| B.Sc. CS     | Niagara University        | 3.X/4.0 | YYYY – YYYY      | Completed   |
-| M.Sc. CS     | UTSA (Cybersecurity)      | 4.X/4.0 | YYYY – Present   | In Progress |
+| B.Sc. CS     | Niagara University        | 3.8/4.0 | 2019 – 2024      | Completed   |
+| M.Sc. CS     | UTSA (Cybersecurity)      | 3.8/4.0 | 2024 – Present   | In Progress |
