@@ -31,4 +31,4 @@ My academic journey is driven by a passion for understanding and securing distri
 | Degree       | Institution             | GPA     | Duration         | Status      |
 |--------------|--------------------------|---------|------------------|-------------|
 | B.Sc. CS     | Niagara University        | 3.75/4.0 | 2019 – 2024      | Completed   |
-| M.Sc. CS     | UTSA (Cybersecurity)      | 3.89/4.0 | 2024 – Present   | In Progress |
+| M.Sc. CS     | UTSA (CS-Cybersecurity)      | 3.89/4.0 | 2024 – Present   | In Progress |
