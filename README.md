@@ -26,7 +26,7 @@ My academic journey is driven by a passion for understanding and securing distri
 [Transcript PDF](https://drive.google.com/file/d/1YA4sciorPg3E9QTjAJZbJxFFDGmQrmgb/view?usp=sharing) |
 
 ### 🎓 Master’s Degree – UTSA  
-[Transcript PDF](https://drive.google.com/file/d/1Uy_k4DyeZO5G623O8jVGBPqqJkAmKtuA/view?usp=sharing) | [Detailed Coursework - Fall 2024](https://github.com/AmjadAlqahtani90/Fall2025/tree/main) | [Detailed Coursework - Spring 2025](https://github.com/AmjadAlqahtani90/Spring2025/tree/main)
+[Transcript PDF](https://drive.google.com/file/d/1Uy_k4DyeZO5G623O8jVGBPqqJkAmKtuA/view?usp=sharing) | [Detailed Coursework - Fall 2024](https://github.com/AmjadAlqahtani90/Fall-2024) | [Detailed Coursework - Spring 2025](https://github.com/AmjadAlqahtani90/Spring2025/tree/main)
 
 | Degree       | Institution             | GPA     | Duration         | Status      |
 |--------------|--------------------------|---------|------------------|-------------|
