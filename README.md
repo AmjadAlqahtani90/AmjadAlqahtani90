@@ -6,7 +6,7 @@ I hold a **Bachelor’s degree in Computer Science from Niagara University** and
 
 My academic and research interests center on **computer science education**.
 
-📄 [CV PDF](https://drive.google.com/file/d/1Uy_k4DyeZO5G623O8jVGBPqqJkAmKtuA/view?usp=sharing)
+📄 [CV PDF](https://docs.google.com/document/d/e/2PACX-1vQV_cT4RJHbhYDm3TQDj2Rn4uhhY94tlBPbOtBB7Pi_ltwOO0fB0295Vc45hvYTYnyU99_2mWk5uwJ0/pub)
 
 ---
 
