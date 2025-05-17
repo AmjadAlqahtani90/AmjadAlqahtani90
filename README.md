@@ -1,53 +1,59 @@
-# I'm Amjad Alqahtani  
+# 👨‍🎓 Amjad Alqahtani
 
-### Graduate Student at UTSA | M.Sc. in Computer Science (Cybersecurity)
+**Graduate Student at UTSA | M.Sc. in Computer Science (Cybersecurity Concentration)**  
+**B.Sc. in Computer Science, Niagara University**
 
-I hold a **Bachelor’s degree in Computer Science from Niagara University** and am currently pursuing a **Master’s in Computer Science with a concentration in Cybersecurity** at **The University of Texas at San Antonio (UTSA)**.
+🔒 Passionate about **Cybersecurity**, **Blockchain Systems**, and **Federated Learning**. Focused on building secure, scalable, and privacy-aware distributed systems.  
+🎓 Currently pursuing my Master’s degree at the **University of Texas at San Antonio (UTSA)**.
 
-My academic and research interests center on **computer science education**.
-
-📄 [Amjad's CV](https://docs.google.com/document/d/13wfUfFP0EuihwszW2rxeEseJHMd8sGG46nnIyVjGuEg/edit?usp=sharing)
-
----
-
-## Areas of Interest
-- Blockchain Systems  
-- Cybersecurity Engineering  
-- Federated Learning Architectures
+📄 [My CV](https://docs.google.com/document/d/13wfUfFP0EuihwszW2rxeEseJHMd8sGG46nnIyVjGuEg/edit?usp=sharing)
 
 ---
 
-## Future Goals
-- Specialize in **secure blockchain system design and architecture**  
-- Contribute to **cybersecurity research** and cutting-edge innovations  
-- Develop **fault-tolerant and scalable mechanisms** for decentralized systems  
-- Build **efficient and privacy-preserving federated learning frameworks**
+## 💡 Research & Academic Interests
+
+- **Blockchain System Design & Architecture**
+- **Cybersecurity Engineering & Risk Management**
+- **Federated Learning Frameworks**
+- **Computer Science Education**
 
 ---
 
-## 📄 Academic Transcripts  
+## 🎯 Future Goals
 
-### Bachelor’s Degree – Niagara University  
-📑 [Transcript PDF](https://drive.google.com/file/d/1YA4sciorPg3E9QTjAJZbJxFFDGmQrmgb/view?usp=sharing)
+- Design **secure and fault-tolerant blockchain systems**
+- Advance **cybersecurity research** in scalable, real-world applications
+- Build **privacy-preserving federated learning architectures**
+- Contribute to the **education of future computer scientists**
 
-### Master’s Degree – UTSA  
-📑 [Transcript PDF](xxx)  
-📘 [Fall 2024 Coursework](https://github.com/AmjadAlqahtani90/Fall-2024)  
-📘 [Spring 2025 Coursework](https://github.com/AmjadAlqahtani90/Spring2025/tree/main)
+---
+
+## 📚 Academic Background
 
 | Degree       | Institution             | GPA        | Duration       | Status      |
 |--------------|--------------------------|------------|----------------|-------------|
-| B.Sc. CS     | Niagara University        | 3.75 / 4.0 | 2019 – 2024    | Completed   |
-| M.Sc. CS     | UTSA (Cybersecurity)      | 3.89 / 4.0 | 2024 – Present | In Progress |
+| **B.Sc. CS** | Niagara University        | 3.75 / 4.0 | 2019 – 2024    | Completed   |
+| **M.Sc. CS** | UTSA (Cybersecurity)      | 3.89 / 4.0 | 2024 – Present | In Progress |
 
+### 🎓 Academic Records  
 
-## 📄 Selected Presentations
-- Final Project of Cyber Security Managment **Cybersecurity Briefing**
-- Final Project of Artificial Intelligence **Federated Learning**
-- Case-2 
-- Data Science Proposal and projects
+- 📑 [Bachelor’s Transcript (PDF)](https://drive.google.com/file/d/1YA4sciorPg3E9QTjAJZbJxFFDGmQrmgb/view?usp=sharing)  
+- 📑 Master’s Transcript – *Coming Soon*  
+- 📘 [Fall 2024 Coursework (GitHub)](https://github.com/AmjadAlqahtani90/Fall-2024)  
+- 📘 [Spring 2025 Coursework (GitHub)](https://github.com/AmjadAlqahtani90/Spring2025/tree/main)
 
+---
 
-## 📄 Selected Articles
+## 🗣️ Presentations & Projects
 
+- **Cybersecurity Briefing** – Final Project, Cybersecurity Risk Management  
+- **Federated Learning Architectures** – Final Project, Artificial Intelligence  
+- **Data Science Proposal & Applied Projects**  
+- **Case Study – Case 2**
+
+---
+
+## ✍️ Articles & Publications
+
+*Coming soon — blog posts, whitepapers, or academic articles.*
 
