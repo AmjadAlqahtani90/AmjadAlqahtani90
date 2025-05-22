@@ -57,3 +57,5 @@
 
 *Coming soon — blog posts, whitepapers, or academic articles.*
 
+## ✍️ Selected Reports, Assignments, and Papers from My Bachelor’s Program.
+[Here](https://github.com/AmjadAlqahtani90/BCP)  
