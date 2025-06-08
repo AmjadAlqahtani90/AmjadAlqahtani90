@@ -38,7 +38,7 @@
 ### 🎓 Academic Records  
 
 - 📑 [Bachelor’s Transcript (PDF)](https://drive.google.com/file/d/1YA4sciorPg3E9QTjAJZbJxFFDGmQrmgb/view?usp=sharing)  
-- 📑 Master’s Transcript – (PDF)(https://drive.google.com/file/d/1JEpV6jpSICQzJpuDQCHRZQaV5_xr4fCC/view?usp=sharing)
+- 📑 [Master’s Transcript – (PDF)](https://drive.google.com/file/d/1JEpV6jpSICQzJpuDQCHRZQaV5_xr4fCC/view?usp=sharing)
 - 📘 [Fall 2024 Coursework (GitHub)](https://github.com/AmjadAlqahtani90/Fall-2024)  
 - 📘 [Spring 2025 Coursework (GitHub)](https://github.com/AmjadAlqahtani90/Spring2025/tree/main)
 
